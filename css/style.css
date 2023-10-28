@@ -66,11 +66,10 @@
     padding-bottom: .6rem;
 }
 
-.signup button{
+.signup-btn1 {
     background-color: #3882f6;
     color: #f9faf8;
     padding: 8px 24px;
-    border: none;
     border-radius: 7px;
 }
 
@@ -162,7 +161,7 @@
 }
 
 .call-text h3,
-.signup-btn button {
+.signup-btn2 {
     color: #f9faf8;
 }
 
@@ -170,9 +169,11 @@
     color: #e5e7eb;
 }
 
-.signup-btn button {
+.signup-btn2 {
     background-color: #3882f6;
     padding: .4rem 2rem;
+    border: #f9faf8 solid;
+    border-radius: 7px;
 }
 
 /* CSS of footer */
